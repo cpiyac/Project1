@@ -1,3 +1,4 @@
 Created Project 1 to keep track of -
- Assigned tasks
- Learning to use Git
+
+  1. Assigned tasks
+  2. Learning to use Git
